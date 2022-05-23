@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  gardener:
+  apiVersion: v1
+  appVersion: 1.47.0
+  created: "2022-05-22T11:35:46.196336111Z"
+  description: SAP Gardener is a managed Kubernetes service by 
+  SAP developed as an Open Source project. It helps create and manage 
+  multiple Kubernetes clusters with less effort by abstracting 
+  environment specifics to deliver the same homogeneous 
+  Kubernetes-native DevOps experience everywhere.
+  home: https://github.com/tschoergez/gardener/tree/master/charts/gardener/controlplane
+  icon: https://github.com/tschoergez/gardener/raw/master/logo/gardener-large.png
+  name: SAP Gardener
+  sources: 
+  - https://gardener.cloud
+  urls:
+  - https://github.com/tschoergez/gardener/archive/refs/tags/v1.47.0.tar.gz
+  version: 1.47.0
